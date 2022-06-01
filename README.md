@@ -6,6 +6,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozej4)](https://github.com/anuraghazra/github-readme-stats) -->
 
+[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=cozej4&stroke=ffffff&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/cozej4)
+
+
 ### 📫 Lets stay connected :
 
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-green?style=for-the-badge&logo=gmail)](mailto:ilakozejumanne@gmail.com)
