@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=cozej4&color=green)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozej4&show_icons=true&theme=dark&count_private=true)](https://github.com/issyzac)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozej4&show_icons=true&theme=dark&count_private=true)](https://github.com/cozej4)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozej4)](https://github.com/anuraghazra/github-readme-stats) -->
 
